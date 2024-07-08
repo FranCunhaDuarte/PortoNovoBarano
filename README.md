@@ -1,5 +1,6 @@
 # PortoNovoBarano
 Porto Novo Barano Web Site
+Figma Project: [https://github.com/your-username/repository-name.git](https://www.figma.com/design/Z3GQAUOkZ5RPJfIE4w0oxH/PORTO-NOVO?node-id=0-1&t=5lOw6PfpP7dmLwd4-1)
 
 # Project: Fish Sale Page
 
@@ -22,6 +23,4 @@ This project consists of a website dedicated to the sale of hake and other fresh
    ```bash
    git clone https://github.com/your-username/repository-name.git
 
-2. Figma Project:
-   
-   [https://github.com/your-username/repository-name.git](https://www.figma.com/design/Z3GQAUOkZ5RPJfIE4w0oxH/PORTO-NOVO?node-id=0-1&t=5lOw6PfpP7dmLwd4-1)
+

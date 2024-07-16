@@ -302,6 +302,7 @@ main{
     text-transform: uppercase;
     color: #ffff;
     text-align: center;
+    text-wrap: balance;
 }
 
 .article-container-home .section-container-home .home-box .home-box-text h1 span{

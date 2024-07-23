@@ -1,5 +1,6 @@
 <?php
 
+require_once 'data.form.php';
 
 use PHPMailer\PHPMailer\PHPMailer;;
 
@@ -26,7 +27,7 @@ strlen($_POST["input-name"])<=50 && strlen($_POST["input-email"])<=200 && strlen
     $mail->isSMTP();
     $mail->Host="smtp.gmail.com";
     $mail->SMTPAuth=true;
-    $mail->Username=EMAIL;
+    $mail->Username= EMAIL;
     $mail->Password = PASSWORD;
     $mail->Port=587;
     $mail->SMTPSecure="tls";

@@ -22,6 +22,10 @@ window.addEventListener("scroll",function(){
     let scrollTop=window.pageYOffset || document.documentElement.scrollTop;
     if(scrollTop>lastScrollTop){
         header.style.top="-70px";
+        console.log(scrollTop)
+        if(scrollTop<=0){
+            header.style.top="0";
+        }
     }else{
         header.style.top="0";
     }
